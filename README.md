@@ -14,7 +14,7 @@ Computer Science Education student & Developer building terminal-driven tools, a
 
 ## Focus
 
-Automation scripts, desktop utilities, and interactive web platforms. Mostly JavaScript/Node.js, Python, and Shell scripting—running on a customized CachyOS (Arch Linux) + Hyprland environment.
+Bridging intelligent software with hardware and automation pipelines: LLM-powered agents, edge computing, microcontroller integration, and self-hosted local servers. Mostly Python, C/C++, and Node.js.
 
 ## Role
 
