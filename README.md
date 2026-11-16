@@ -1,13 +1,44 @@
+# Hi, I'm Muhammad Firdaus 👋
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/knfrdss) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/firdausssmhmd) 
+Computer Science Education student & Developer building terminal-driven tools, automation pipelines, and interactive web systems.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Kanarannn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Kanarannn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Kanarannn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/-Arch_Linux-1793D1?style=flat-square&logo=archlinux&logoColor=white)
 
----
-[![](https://komarev.com/ghpvc/?username=Kanarannn&icon=0&color=0)](https://visitcount.itsvg.in)
+> _I do all what i can, so basicly im full_
+
+## Focus
+
+Automation scripts, desktop utilities, and interactive web platforms. Mostly JavaScript/Node.js, Python, and Shell scripting—running on a customized CachyOS (Arch Linux) + Hyprland environment.
+
+## Role
+
+- **[Kemakom UPI](https://www.instagram.com/kemakomupi)** General Secretary (Sekretaris Umum) at the Computer Science Student Organization, Universitas Pendidikan Indonesia. Managing administrative workflows, event operations, and digital infrastructure.
+
+## Current Projects
+
+- **[Archagon](https://github.com/Kanarannn/Archagon)** Archagon is a desktop application for managing local Apache and MariaDB servers on Arch Linux, featuring a simple GUI inspired by Laragon.
+  
+## Environment & Setup
+
+- **OS:** CachyOS (Arch Linux) / Windows 11 Dual-Boot
+- **Editor & Tools:** VS Code, Vim
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kanarannn&theme=dark&hide_border=true&short_numbers=true)](https://github.com/Kanarannn)
+
+## Connect
+
+[![GitHub](https://img.shields.io/badge/-@Kanarannn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Kanarannn)
+[![LinkedIn](https://img.shields.io/badge/-Muhammad_Firdaus-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/firdausssmhmd)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:firdausssmhmd@example.com)
+
+## Stats
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Kanarannn&style=flat-square&color=gray" alt="profile views"/>
+</p>
